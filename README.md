@@ -1,9 +1,17 @@
 <h1 align="center">Hi 👋, I'm Bhagya Chandupa</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chandupa-k&label=Profile%20views&color=0e75b6&style=flat" alt="chandupa-k" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=chandupa-k&label=Profile%20views&color=0e75b6&style=flat" alt="chandupa-k" /> </p>
 
+---
+
+## <picture ><img align="center" src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px ></picture>
+
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+
+
+---
 - 📫 How to reach me **chandupascbck@gmail.com**
 
-- ⚡ Fun fact **call me CK..XD**
+- ⚡ Fun fact **call me as CK**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
